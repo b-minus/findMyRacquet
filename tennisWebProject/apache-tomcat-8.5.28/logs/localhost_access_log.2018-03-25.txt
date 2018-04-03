@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:02:23 -0400] "GET /findMyRacquet/allRacquets HTTP/1.1" 200 1594
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:03:33 -0400] "GET /findMyRacquet/allRacquets/3.5 HTTP/1.1" 200 347
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:03:40 -0400] "GET /findMyRacquet/allRacquets/3.5/Control HTTP/1.1" 200 181
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:03:45 -0400] "GET /findMyRacquet/allRacquets/Control HTTP/1.1" 200 838
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:04:04 -0400] "POST /findMyRacquet/allRacquets/Control HTTP/1.1" 200 72
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:04:11 -0400] "POST /findMyRacquet/allRacquets/Control HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:04:18 -0400] "GET /findMyRacquet/myRacquets HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:04:26 -0400] "DELETE /findMyRacquet/myRacquets HTTP/1.1" 200 65
+0:0:0:0:0:0:0:1 - - [25/Mar/2018:23:04:30 -0400] "GET /findMyRacquet/myRacquets HTTP/1.1" 200 5

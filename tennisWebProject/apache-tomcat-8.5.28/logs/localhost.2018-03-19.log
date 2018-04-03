@@ -1,0 +1,620 @@
+19-Mar-2018 15:48:17.496 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 15:48:17.496 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 15:48:17.497 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 15:48:18.059 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:48:18.060 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:48:18.060 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:52:58.588 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 15:52:58.588 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 15:53:27.750 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 15:53:27.750 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 15:53:27.751 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4d26c735')
+19-Mar-2018 15:53:28.321 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:53:28.322 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:53:28.322 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:53:54.836 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 15:53:54.836 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 15:54:09.331 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 15:54:09.331 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 15:54:09.332 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4d26c735')
+19-Mar-2018 15:54:09.957 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:54:09.958 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:54:09.958 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:56:40.198 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 15:56:40.199 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 15:58:34.855 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 15:58:34.855 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 15:58:34.856 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f063716')
+19-Mar-2018 15:58:35.442 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:58:35.442 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 15:58:35.443 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:01:37.211 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:01:37.212 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:01:39.635 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:01:39.635 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:01:39.636 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 16:01:40.250 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:01:40.250 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:01:40.251 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:11:30.764 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:11:30.764 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:12:23.452 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:12:23.452 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:12:23.453 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 16:12:24.035 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:12:24.036 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:12:24.036 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:10.897 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:14:10.897 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:14:13.048 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:14:13.048 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:14:13.049 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@47e3c122')
+19-Mar-2018 16:14:13.643 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:13.643 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:13.644 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:52.936 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:14:52.936 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:14:55.337 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:14:55.338 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:14:55.338 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5e3f781f')
+19-Mar-2018 16:14:55.981 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:55.982 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:14:55.982 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:16:25.478 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:16:25.478 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:16:27.876 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:16:27.876 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:16:27.877 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 16:16:28.490 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:16:28.490 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:16:28.490 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:20:35.369 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:20:35.370 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:20:37.995 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:20:37.995 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:20:37.996 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 16:20:38.568 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:20:38.568 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:20:38.568 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:23:59.061 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:23:59.061 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 16:24:22.573 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 16:24:22.573 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 16:24:22.574 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 16:24:23.202 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:24:23.202 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:24:23.202 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 16:49:27.859 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 16:49:27.859 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 17:02:29.411 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 17:02:29.411 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 17:02:29.412 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 17:02:29.986 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 17:02:29.987 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 17:02:29.987 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 17:02:32.999 SEVERE [http-nio-8397-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [myRacquets] in context with path [/findMyRacquet] threw exception
+ java.lang.NullPointerException
+	at myRacquetsServlet.doGet(myRacquetsServlet.java:18)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 18:25:29.973 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:25:29.973 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 18:25:47.514 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 18:25:47.514 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 18:25:47.515 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5e3f781f')
+19-Mar-2018 18:25:48.167 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:25:48.168 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:25:48.168 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:25:50.427 SEVERE [http-nio-8397-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [myRacquets] in context with path [/findMyRacquet] threw exception
+ java.lang.NullPointerException
+	at myRacquetsServlet.doGet(myRacquetsServlet.java:18)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 18:33:53.750 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 18:33:53.750 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 18:33:53.751 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@d570e67')
+19-Mar-2018 18:33:54.299 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:33:54.299 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:33:54.300 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:33:54.312 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:33:54.312 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 18:33:58.132 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:33:58.132 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 18:34:00.505 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 18:34:00.505 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 18:34:00.506 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4d26c735')
+19-Mar-2018 18:34:01.120 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:34:01.120 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:34:01.121 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:34:02.234 SEVERE [http-nio-8397-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [myRacquets] in context with path [/findMyRacquet] threw exception
+ java.lang.NullPointerException
+	at myRacquetsServlet.doGet(myRacquetsServlet.java:18)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 18:39:30.276 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:39:30.276 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 18:40:42.567 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 18:40:42.567 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 18:40:42.568 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 18:40:43.184 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:40:43.185 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:40:43.185 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:40:44.988 SEVERE [http-nio-8397-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [myRacquets] in context with path [/findMyRacquet] threw exception
+ java.lang.NullPointerException
+	at myRacquetsServlet.doGet(myRacquetsServlet.java:18)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 18:45:40.873 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:45:40.873 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 18:46:03.682 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 18:46:03.682 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 18:46:03.683 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4d26c735')
+19-Mar-2018 18:46:04.240 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:46:04.240 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:46:04.241 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 18:57:09.171 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 18:57:09.171 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:01:12.185 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:01:12.185 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:01:12.186 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:01:12.936 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:01:12.937 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:01:12.937 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:04:23.125 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:05:54.874 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:05:54.874 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:06:24.069 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:06:24.069 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:06:24.070 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:06:24.829 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:07:05.014 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:07:05.015 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:07:05.016 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:08:45.165 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [typeFilter]
+ java.lang.ClassNotFoundException: typeFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3800)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1411)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1384)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1620)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1164)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1388)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1360)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:08:45.165 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [ratingFilter]
+ java.lang.ClassNotFoundException: ratingFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3800)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1411)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1384)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1620)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1164)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1388)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1360)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:08:45.166 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:10:25.314 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [typeFilter]
+ java.lang.ClassNotFoundException: typeFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1420)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1384)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1620)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1164)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1388)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1360)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:10:25.315 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [ratingFilter]
+ java.lang.ClassNotFoundException: ratingFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1420)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1384)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1620)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1164)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1388)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1360)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:10:25.315 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:12:51.894 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:12:51.894 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:13:32.594 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:13:32.594 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:13:32.595 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 19:13:33.443 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [typeFilter]
+ java.lang.ClassNotFoundException: typeFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:752)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:728)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1141)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1875)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:13:33.445 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [ratingFilter]
+ java.lang.ClassNotFoundException: ratingFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:752)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:728)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1141)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1875)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:13:33.446 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:15:01.448 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:15:01.448 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:19:11.940 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:19:11.940 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:19:11.941 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 19:19:12.754 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:19:12.755 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:19:12.755 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:19:52.910 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:19:52.910 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:19:52.910 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:27:22.050 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:27:22.050 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:27:47.927 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:27:47.927 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:27:47.928 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:27:48.599 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:27:48.599 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:27:48.600 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:31:36.941 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:31:36.941 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:32:04.373 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:32:04.373 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:32:04.374 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:32:05.113 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:32:05.114 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:32:05.114 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:34:27.045 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:34:27.045 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:34:29.807 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:34:29.807 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:34:29.808 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:34:30.557 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:34:30.558 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:34:30.558 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:35:30.976 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:35:30.976 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:35:47.365 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:35:47.366 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:35:47.366 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 19:35:48.180 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:35:48.180 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:35:48.180 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:37:53.332 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:37:53.332 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:38:38.890 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:38:38.890 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:38:38.890 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 19:38:39.599 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:38:39.599 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:38:39.600 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:55:06.994 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:55:06.994 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:57:52.582 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:57:52.582 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:57:52.583 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 19:57:53.441 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:57:53.441 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.filterStart Exception starting filter [ratingFilter]
+ java.lang.ClassNotFoundException: ratingFilter
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:544)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:525)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+	at org.apache.catalina.core.ApplicationFilterConfig.getFilter(ApplicationFilterConfig.java:264)
+	at org.apache.catalina.core.ApplicationFilterConfig.<init>(ApplicationFilterConfig.java:108)
+	at org.apache.catalina.core.StandardContext.filterStart(StandardContext.java:4599)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5241)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:752)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:728)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1141)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1875)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 19:57:53.441 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:58:47.302 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 19:58:47.303 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 19:58:49.696 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 19:58:49.696 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 19:58:49.698 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 19:58:50.690 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 19:58:50.690 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:00:21.223 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:00:21.223 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:00:41.022 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:00:41.022 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:00:41.023 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 20:00:41.836 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:00:41.836 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:01:28.517 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:01:28.517 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:01:45.514 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:01:45.514 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:01:45.515 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 20:01:46.328 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:01:46.329 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:01:46.929 SEVERE [http-nio-8397-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/findMyRacquet] threw exception
+ java.lang.NumberFormatException: For input string: "rol"
+	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.lang.Double.parseDouble(Double.java:538)
+	at java.lang.Double.valueOf(Double.java:502)
+	at racquetFinderFilter.doFilter(racquetFinderFilter.java:44)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 20:01:48.300 SEVERE [http-nio-8397-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/findMyRacquet] threw exception
+ java.lang.NumberFormatException: For input string: "rol"
+	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.lang.Double.parseDouble(Double.java:538)
+	at java.lang.Double.valueOf(Double.java:502)
+	at racquetFinderFilter.doFilter(racquetFinderFilter.java:44)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 20:01:58.389 SEVERE [http-nio-8397-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/findMyRacquet] threw exception
+ java.lang.NumberFormatException: For input string: "rol"
+	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.lang.Double.parseDouble(Double.java:538)
+	at java.lang.Double.valueOf(Double.java:502)
+	at racquetFinderFilter.doFilter(racquetFinderFilter.java:44)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+19-Mar-2018 20:02:48.473 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:02:48.473 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:03:10.962 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:03:10.962 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:03:10.964 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1f9fdac2')
+19-Mar-2018 20:03:11.833 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:03:11.834 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:06:11.994 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:06:24.087 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:06:24.087 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:40:51.700 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:40:51.700 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:40:51.701 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 20:40:52.454 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:41:31.391 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:41:31.392 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:41:51.508 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:41:51.508 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:41:51.510 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4d26c735')
+19-Mar-2018 20:41:52.280 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:48:00.993 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:48:00.994 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:48:26.011 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:48:26.011 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:48:26.012 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@26ed47')
+19-Mar-2018 20:48:26.664 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized
+19-Mar-2018 20:52:53.708 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+19-Mar-2018 20:52:53.708 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+19-Mar-2018 20:53:36.762 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+19-Mar-2018 20:53:36.762 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+19-Mar-2018 20:53:36.763 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@30262bd7')
+19-Mar-2018 20:53:37.493 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Filter Initialized

@@ -1,0 +1,56 @@
+25-Mar-2018 23:02:11.049 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.28
+25-Mar-2018 23:02:11.051 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 6 2018 23:10:25 UTC
+25-Mar-2018 23:02:11.051 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.28.0
+25-Mar-2018 23:02:11.051 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.13.0-37-generic
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-oracle/jre
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/conf/logging.properties
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Mar-2018 23:02:11.052 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/temp
+25-Mar-2018 23:02:11.053 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+25-Mar-2018 23:02:11.153 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8397"]
+25-Mar-2018 23:02:11.162 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2018 23:02:11.167 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2018 23:02:11.169 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Mar-2018 23:02:11.169 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 369 ms
+25-Mar-2018 23:02:11.185 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Mar-2018 23:02:11.185 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.28
+25-Mar-2018 23:02:11.203 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/docs]
+25-Mar-2018 23:02:11.524 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:11.556 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/docs] has finished in [353] ms
+25-Mar-2018 23:02:11.556 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/examples]
+25-Mar-2018 23:02:11.783 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:11.809 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/examples] has finished in [253] ms
+25-Mar-2018 23:02:11.809 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/manager]
+25-Mar-2018 23:02:11.952 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:11.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/manager] has finished in [145] ms
+25-Mar-2018 23:02:11.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/ROOT]
+25-Mar-2018 23:02:12.087 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:12.088 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/ROOT] has finished in [134] ms
+25-Mar-2018 23:02:12.088 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/host-manager]
+25-Mar-2018 23:02:12.207 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:12.208 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/host-manager] has finished in [120] ms
+25-Mar-2018 23:02:12.209 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/findMyRacquet]
+25-Mar-2018 23:02:12.377 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Mar-2018 23:02:12.382 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bman8397/Documents/csc435/tennisWebProject/apache-tomcat-8.5.28/webapps/findMyRacquet] has finished in [173] ms
+25-Mar-2018 23:02:12.385 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8397"]
+25-Mar-2018 23:02:12.393 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2018 23:02:12.394 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1225 ms
+25-Mar-2018 23:07:46.117 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Mar-2018 23:07:46.117 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8397"]
+25-Mar-2018 23:07:46.168 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2018 23:07:46.219 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Mar-2018 23:07:46.241 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8397"]
+25-Mar-2018 23:07:46.242 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Mar-2018 23:07:46.243 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8397"]
+25-Mar-2018 23:07:46.243 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

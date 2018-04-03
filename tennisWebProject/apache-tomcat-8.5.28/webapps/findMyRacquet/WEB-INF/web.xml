@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app version="3.0"
+  xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+
+   <!-- Naming -->
+   <!-- Filter -->
+   <filter>
+      <filter-name>racquetFilter</filter-name>
+      <filter-class>racquetFinderFilter</filter-class>
+   </filter>
+   <!-- Servlets -->
+   <servlet>
+      <servlet-name>output</servlet-name>
+      <servlet-class>outputServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>allRacquets</servlet-name>
+      <servlet-class>allRacquetsServlet</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>myRacquets</servlet-name>
+      <servlet-class>myRacquetsServlet</servlet-class>
+   </servlet>
+
+   <!-- Mapping -->
+   <!-- Filter -->
+   <filter-mapping>
+      <filter-name>racquetFilter</filter-name>
+      <url-pattern>/allRacquets/*</url-pattern>
+   </filter-mapping>
+   <!-- Servlets -->
+   <servlet-mapping>
+      <servlet-name>output</servlet-name>
+      <url-pattern>/output</url-pattern>
+   </servlet-mapping>
+   
+   <servlet-mapping>
+      <servlet-name>allRacquets</servlet-name>
+      <url-pattern>/allRacquets</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>myRacquets</servlet-name>
+      <url-pattern>/myRacquets</url-pattern>
+   </servlet-mapping>
+
+</web-app>
